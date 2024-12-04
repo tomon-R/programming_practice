@@ -1,0 +1,4 @@
+BasedOnStyle: Google
+IndentWidth: 4
+SpacesBeforeTrailingComments: 2
+ColumnLimit: 150
